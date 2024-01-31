@@ -20,11 +20,11 @@
   </div>
   I am a Front End Developer from Ukraine.
 
-- :telescope: I’m starting working as a Front End Developer for building web applications.
+- :telescope: I’m starting working as a Fullstack Developer.
 
-- :seedling: Learning C in School 42.
+- :seedling: Learning in School 42.
 
-- :zap: In my free time, I programming in Python.
+- :zap: In my free time, I programming in C.
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-ebdba8?logo=Gmail&logoColor=red&style=flat)](mailto:olegurcenko4@gmail.com) 
  
